@@ -1,0 +1,245 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "OneTrackPMContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models\/DB",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "OneTrack.PM.Entities",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[FIN_CostAttachments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FIN_CostCenters]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FIN_CostDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FIN_CostItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FIN_Costs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FIN_InvoiceAttachments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FIN_ProjectSupplyOrders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FIN_SupplyOrderAttachments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FIN_SupplyOrderInvoices]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LT_Cities]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LT_CollectionStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LT_Countries]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LT_Currencies]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LT_DocTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LT_Governorates]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LT_InvoiceStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LT_Status]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PM_ProjectAttachments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PM_ProjectPlan]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PM_ProjectPlanAttachments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PM_Projects]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PM_StandardTasks]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_ActionTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_ContactAddresses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_ContactGender]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_ContactImages]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_ContactJobTitles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_ContactPhones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_ContactRoleGroups]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_ContactRoles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_ContactRolesLink]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_Contacts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_ContactTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_FormActionTypeAttachments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_FormActionTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_GroupActions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_Groups]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_JobTitles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_MainModuleAttachments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_MainModules]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_ModuleAttachments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_ModuleFormAttachments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_ModuleForms]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_Modules]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_Titles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_Users]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_UsersLogin]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SEC_UsersRefreshTokens]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SYS_ExceptionLogs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SYS_Settings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SP_SEC_SelectUserPermission]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "khlood.OneTrack.PM.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

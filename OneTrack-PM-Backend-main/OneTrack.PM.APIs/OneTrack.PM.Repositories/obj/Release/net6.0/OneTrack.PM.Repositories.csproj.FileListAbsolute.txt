@@ -1,0 +1,17 @@
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\bin\Release\net6.0\OneTrack.PM.Repositories.deps.json
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\bin\Release\net6.0\OneTrack.PM.Repositories.dll
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\bin\Release\net6.0\OneTrack.PM.Repositories.pdb
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\bin\Release\net6.0\OneTrack.PM.Core.dll
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\bin\Release\net6.0\OneTrack.PM.Entities.dll
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\bin\Release\net6.0\OneTrack.PM.Core.pdb
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\bin\Release\net6.0\OneTrack.PM.Entities.pdb
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\obj\Release\net6.0\OneTrack.PM.Repositories.csproj.AssemblyReference.cache
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\obj\Release\net6.0\OneTrack.PM.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\obj\Release\net6.0\OneTrack.PM.Repositories.AssemblyInfoInputs.cache
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\obj\Release\net6.0\OneTrack.PM.Repositories.AssemblyInfo.cs
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\obj\Release\net6.0\OneTrack.PM.Repositories.csproj.CoreCompileInputs.cache
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\obj\Release\net6.0\OneTrack.PM.Repositories.csproj.CopyComplete
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\obj\Release\net6.0\OneTrack.PM.Repositories.dll
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\obj\Release\net6.0\refint\OneTrack.PM.Repositories.dll
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\obj\Release\net6.0\OneTrack.PM.Repositories.pdb
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Repositories\obj\Release\net6.0\ref\OneTrack.PM.Repositories.dll

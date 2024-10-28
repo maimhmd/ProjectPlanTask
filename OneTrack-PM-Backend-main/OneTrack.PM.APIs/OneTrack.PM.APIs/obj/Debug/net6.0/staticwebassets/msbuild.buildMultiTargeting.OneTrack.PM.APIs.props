@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OneTrack.PM.APIs.props" />
+</Project>

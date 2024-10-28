@@ -1,0 +1,15 @@
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\bin\Release\net6.0\OneTrack.PM.Core.deps.json
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\bin\Release\net6.0\OneTrack.PM.Core.dll
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\bin\Release\net6.0\OneTrack.PM.Core.pdb
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\bin\Release\net6.0\OneTrack.PM.Entities.dll
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\bin\Release\net6.0\OneTrack.PM.Entities.pdb
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\obj\Release\net6.0\OneTrack.PM.Core.csproj.AssemblyReference.cache
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\obj\Release\net6.0\OneTrack.PM.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\obj\Release\net6.0\OneTrack.PM.Core.AssemblyInfoInputs.cache
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\obj\Release\net6.0\OneTrack.PM.Core.AssemblyInfo.cs
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\obj\Release\net6.0\OneTrack.PM.Core.csproj.CoreCompileInputs.cache
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\obj\Release\net6.0\OneTrack.PM.Core.csproj.CopyComplete
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\obj\Release\net6.0\OneTrack.PM.Core.dll
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\obj\Release\net6.0\refint\OneTrack.PM.Core.dll
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\obj\Release\net6.0\OneTrack.PM.Core.pdb
+D:\Repos\OneTrack.PM\OneTrack.PM.APIs\OneTrack.PM.Core\obj\Release\net6.0\ref\OneTrack.PM.Core.dll
